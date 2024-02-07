@@ -45,7 +45,7 @@ Whenever a bank trades a derivative product, it ends up with a position that has
 Where do the various risks lie?
 
 To answer this question, I will need to know the sensitivity of an autocollable to the market parameters.
-These sentitivities are commonly referred to as the Greeks as Gamma : Delta, Gamma, Theta, Vega also  Vega convexity and  skew.
+These sentitivities are commonly referred to as the Greeks : Delta, Gamma, Theta, Vega also  Vega convexity and  skew.
 We used Malliavin's method to calculate the Greeks, using the derivation under the integral sign.
 
 Moreover, I consider the barriers H = 75 and B = 125 constant and I will vary S0 between 60 and 150.
